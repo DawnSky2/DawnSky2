@@ -7,6 +7,7 @@ _Another Italyic font?_
 :smile: :blue_book:
 
 hello | testing
+----- | -----
 hello1 | testing1
 hello2 | testing2
 
