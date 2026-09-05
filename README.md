@@ -1,5 +1,5 @@
-# Hello, My name is Seo Geon Kim. #
-## this is test to learn markdown syntax. ##
+# Hello, My name is Seo Geon Kim. #;
+## this is test to learn markdown syntax. ##;
 *Italic font!*
 _Another Italyic font?_
 ~~StrikeThrough!~~
@@ -16,5 +16,4 @@ _Another Italyic font?_
     1. Item 2a
     1. Item 2b
 
-[x] @DawnSky2, #refs, [https://google.com](), **google**, and <del>tags</del>
-[v] testing
+[] [google](https://www.google.com) []
