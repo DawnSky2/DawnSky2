@@ -11,4 +11,13 @@ hello | testing
 hello1 | testing1
 hello2 | testing2
 
+```C lang
+#include <stdio.h>
+
+int main(){
+    printf("hello, world!\n");
+    return 0;
+}
+```
+
 [] [google](https://www.google.com) []
