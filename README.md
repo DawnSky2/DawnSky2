@@ -6,14 +6,8 @@ _Another Italyic font?_
 **BOOOOOOLLLLDDDD**
 :smile: :blue_book:
 
-* Item 1
-* Item 2
-    * Item 2a
-    * Item 2b
-
-1. Item 1
-1. Item 2
-    1. Item 2a
-    1. Item 2b
+hello | testing
+hello1 | testing1
+hello2 | testing2
 
 [] [google](https://www.google.com) []
