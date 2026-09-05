@@ -5,4 +5,4 @@ I am Kim Seo Geon, undergraduate in :computer: [Computer Science and Engineering
 Although I don't have any team or personal project experience, :cry:<br>
 I will build my practical skills hard from now on. :smile:
 
-So one day I wish to be software developer in :gear: embedded systems or :video_game: game development industry.
+So one day, I wish to be software developer in :gear: embedded systems or :video_game: game development industry.
